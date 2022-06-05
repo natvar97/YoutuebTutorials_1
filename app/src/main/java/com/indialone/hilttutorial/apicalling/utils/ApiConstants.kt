@@ -9,6 +9,6 @@ object ApiConstants {
     const val QUERY_API = "apiKey"
 
     const val VALUE_SOURCES = "techcrunch"
-    const val VALUE_API_KEY = "f0ff90e809ef4848885fad9b2250cd17"
+    const val VALUE_API_KEY = "YOUR_API_KEY"
 
 }
